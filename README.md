@@ -2,6 +2,6 @@
 
 A short bash script that automatically updates atom and all your installed packages. Use cronjob to automate the update!
 
---Requirements--
+## Requirements
 - Debian system
 - wget
